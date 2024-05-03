@@ -1,0 +1,20 @@
+body {
+  /* color: white; */
+  background-image: url("./assets/white.jpg");
+  background-size: 100%;
+  background-position: center;
+}
+
+.container {
+  width: 1080px;
+  margin-top: 64px;
+  padding: 20px;
+}
+
+.glass {
+  background: linear-gradient();
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 28px;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
